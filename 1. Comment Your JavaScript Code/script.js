@@ -1,3 +1,6 @@
-// coommenting one line code
+// single line comment
 
-//commenting multi-lines
+/*
+multi-line
+comment
+*/
